@@ -1,0 +1,20 @@
+.treeview li span.leaf{
+	min-width: 510px;
+}
+.treeview li li span.leaf{
+	min-width: 495px;
+}
+.treeview li li li span.leaf{
+	min-width: 480px;
+}
+
+.treeview li:hover{
+	background-color: #eeeeee;
+}
+
+.treeview li li:hover{
+	background-color: #cccccc;
+}
+.treeview li li li:hover{
+	background-color: #e8f8fd
+}
